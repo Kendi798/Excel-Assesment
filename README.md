@@ -1,5 +1,5 @@
-# Excel-Assesment
-# Advanced Excel Project: Assessment Answers
+# Sales Analysis
+# Advanced Excel Project:
 
 This repository serves as a comprehensive collection of responses to a diverse set of questions, with each question residing in its designated sheet within the Excel file.
 
